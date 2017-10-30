@@ -1,4 +1,14 @@
 <?php
+/*
+*	GLOBAL CONFIG
+*/
+
+define('DB_HOST','localhost');
+define('DB_NAME','test_chat');
+define('DB_USER','root');
+define('DB_PASS','');
+define('BASE_URL','http://localhost/project/simple_chat/');
+
 
 /**
  * CodeIgniter
